@@ -1,0 +1,1 @@
+This project was made entirely with HTML and Tailwind.  It is responsive to different window sizes, and the logo, buttons, and search bar can all be interacted with.
