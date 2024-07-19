@@ -1,1 +1,3 @@
-This project was made entirely with HTML and Tailwind.  It is responsive to different window sizes, and the logo, buttons, and search bar can all be interacted with.
+# Tailwind-Project
+View live project demo [here](https://chrisguenther333.github.io/tailwind-project/)
+This project was made Tailwind and HTML.
